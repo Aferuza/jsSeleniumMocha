@@ -1,0 +1,17 @@
+{
+  "name": "pckg.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "chromedriver": "^119.0.0",
+    "geckodriver": "^4.2.1",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
